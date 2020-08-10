@@ -1,0 +1,2 @@
+export const AUTH_IN_PROGRESS = 'AUTH_IN_PROGRESS';
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
